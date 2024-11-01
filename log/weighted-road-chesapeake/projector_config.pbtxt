@@ -1,0 +1,12 @@
+embeddings {
+  tensor_name: "training embeddings:00000"
+  tensor_path: "00000/training embeddings/tensors.tsv"
+}
+embeddings {
+  tensor_name: "validation embeddings:00000"
+  tensor_path: "00000/validation embeddings/tensors.tsv"
+}
+embeddings {
+  tensor_name: "testing embeddings:00000"
+  tensor_path: "00000/testing embeddings/tensors.tsv"
+}

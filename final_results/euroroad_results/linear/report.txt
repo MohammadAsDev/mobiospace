@@ -1,0 +1,1 @@
+Baseline: Accuracy=6.87%, MSE=42.73, MAE=4.53 

@@ -1,0 +1,11 @@
+Baseline: Accuracy=69.35%, MSE=0.26, MAE=0.41
+Classification Report:
+              precision    recall  f1-score   support
+
+           1       0.46      0.56      0.51        43
+           2       0.83      0.73      0.77       131
+           3       0.53      0.83      0.65        12
+
+    accuracy                           0.69       186
+   macro avg       0.60      0.71      0.64       186
+weighted avg       0.72      0.69      0.70       186 
