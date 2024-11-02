@@ -27,10 +27,10 @@ This algorithm is used as a preprocessing step before applying the above algorit
 
 actually we don't have that huge computing power, so we can use a large amount of data to training this model. for this reason we get some size-limited datasets to train the model on it and that's what we get
 
-* [chesapeake](https://networkrepository.com/road-chesapeake.php) (nodes= 39, edges= 170)
+* [chesapeake](https://networkrepository.com/road-chesapeake.php) (nodes= 39, edges= 170
 
-![accuracy histogram](final_results/chesapeake_results/200_100_50_nn/default_1.png)
+![accuracy histogram](https://github.com/MohammadAsDev/mobiospace/blob/main/final_results/chesapeake_results/200_100_50_nn/default_1.png)
 
 * [euro-road](https://networkrepository.com/road-euroroad.php) (nodes= 1K, edges= 1K)
 
-![confusion matrix for euro-road](final_results/euroroad_results/final_1.png)
+![accuracy histogram for euro-road](https://github.com/MohammadAsDev/mobiospace/blob/main/final_results/euroroad_results/final_1.png)
